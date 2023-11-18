@@ -9,7 +9,7 @@
 
 ## Devstack History & Touched With:
 
-![Remotion](https://img.shields.io/badge/Remotion-FFFFFF?style=for-the-badge&labelColor=0000FF&logo=YouTube&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0000FF?style=for-the-badge&labelColor=0000FF&logo=YouTube&logoColor=white)
 ![Directus](https://img.shields.io/badge/Directus-005F9E?style=for-the-badge&logo=directus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
