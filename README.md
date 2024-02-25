@@ -4,13 +4,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-005F9E?style=for-the-badge&logo=directus&logoColor=white)
 
 ## Devstack History & Touched With:
 
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge)
 ![Remotion](https://img.shields.io/badge/Remotion-0000FF?style=for-the-badge&labelColor=0000FF&logo=YouTube&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-005F9E?style=for-the-badge&logo=directus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
